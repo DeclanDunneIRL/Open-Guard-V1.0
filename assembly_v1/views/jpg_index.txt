@@ -1,0 +1,8 @@
+PRO_WEB_VIEW_INDEX_HEAD
+back.jpg
+bottom.jpg
+default.jpg
+front.jpg
+left.jpg
+right.jpg
+top.jpg
