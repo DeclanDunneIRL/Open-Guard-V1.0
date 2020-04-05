@@ -1,3 +1,17 @@
 .navbar {
     margin-bottom: 20px;
 }
+
+
+.step{
+    margin-top: 60px;
+}
+
+
+img{
+    max-height: 500px;
+}
+
+.img-shrink{
+    max-width: 40%;
+}
