@@ -15,3 +15,7 @@ img{
 .img-shrink{
     max-width: 40%;
 }
+
+.container{
+    padding-top: 70px;
+}
